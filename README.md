@@ -4,11 +4,11 @@
 install dependence
 make install
 
-#start dev env
+# start dev env
 make run dev
 
-#run test
+# run test
 make run test
 
-#run api test
+# run api test
 make run test:api
